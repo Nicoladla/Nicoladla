@@ -2,8 +2,8 @@
 
 Tenho 18 anos e moro em Pernambuco, Brasil. Atualmente estou em processo de formação como Desenvolvedor Full Stack na Driven Education. Uma curiosidade sobre mim, é que, decidi entrar na carreira de desenvolvedor apenas quando concluí meu ensino médio.
 
-<img height=170em src="https://github-readme-stats.vercel.app/api?username=Nicoladla&show_icons=true&theme=merko"/>
-<img height=150em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoladla&layout=compact&theme=merko"/>
+<img height=150em src="https://github-readme-stats.vercel.app/api?username=Nicoladla&show_icons=true&theme=merko"/>
+<img height=130em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoladla&layout=compact&theme=merko"/>
 
 ##
 
