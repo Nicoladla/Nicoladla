@@ -20,7 +20,7 @@ Tenho 18 anos e moro em Pernambuco, Brasil. Atualmente estou em processo de form
 
 #### Entre em contato:
 <div>
-  <a href="nicolasaraujo04@gmail.com">
+  <a href="mailto:nicolasaraujo04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 
