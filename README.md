@@ -3,8 +3,8 @@
 Tenho 18 anos e moro em Pernambuco, Brasil. Atualmente estou em processo de formação como Desenvolvedor Full Stack na Driven Education. Uma curiosidade sobre mim, é que, decidi entrar na carreira de desenvolvedor apenas quando concluí meu ensino médio.
 
 <div>
-  <img align=center height=150em src="https://github-readme-stats.vercel.app/api?username=Nicoladla&show_icons=true&theme=merko"/>
-  <img align=center height=130em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoladla&layout=compact&theme=merko"/>
+  <img align=center height=180em src="https://github-readme-stats.vercel.app/api?username=Nicoladla&show_icons=true&theme=merko"/>
+  <img align=center height=180em src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoladla&layout=compact&theme=merko"/>
 </div>
   
 ##
@@ -12,10 +12,13 @@ Tenho 18 anos e moro em Pernambuco, Brasil. Atualmente estou em processo de form
 #### Linguagens e tecnologias:
 <div>
   <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" />
-  <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" 
+  <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
   <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
   <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+  <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+  <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
  </div>
 
 #### Entre em contato:
