@@ -1,16 +1,14 @@
-### Hi there 👋
+### 👋 Olá, pessoa! Me chamo Nicolas.
 
-<!--
-**Nicoladla/Nicoladla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Tenho 18 anos e moro em Pernambuco, Brasil. Atualmente estou em processo de formação como Desenvolvedor Full Stack na Driven Education. Uma curiosidade sobre mim, é que, decidi entrar na carreira de desenvolvedor apenas quando concluí meu ensino médio.
 
-Here are some ideas to get you started:
+<img src="https://github-readme-stats.vercel.app/api?username=Nicoladla&show_icons=true&theme=merko"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicoladla&layout=compact&theme=merko"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+
+#### Linguagens e tecnologias:
+<img src="file:///C:/Users/nicol/Downloads/html5.svg" alt="JavaScrip"/>
+
+#### Entre em contato:
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/>
