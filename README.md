@@ -1,6 +1,6 @@
 ## 👋 Olá, pessoa... Me chamo Nicolas!
 
-Tenho 19 anos e moro em Pernambuco, Brasil. Atualmente estou em processo de formação como Desenvolvedor Full Stack na Driven Education. Uma curiosidade sobre mim, é que, decidi entrar na carreira de desenvolvedor apenas quando concluí o ensino médio.
+Tenho 19 anos e moro em Buíque, Pernambuco. Atualmente estou em processo de formação como Desenvolvedor Full Stack na Driven Education. Uma curiosidade sobre mim, é que, decidi entrar na carreira de desenvolvedor apenas quando concluí o ensino médio.
 
 <div>
   <img align=center height=160em src="https://github-readme-stats.vercel.app/api?username=Nicoladla&show_icons=true&theme=merko"/>
