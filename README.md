@@ -31,6 +31,12 @@ Tenho 19 anos e moro em Pernambuco, Brasil. Atualmente estou em processo de form
   <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
 </div>  
 
+#### Banco de dados:
+<div>
+  <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
+  <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
+</div>  
 
 ### Entre em contato:
 <div>
