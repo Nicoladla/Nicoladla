@@ -1,6 +1,6 @@
-### 👋 Olá, pessoa! Me chamo Nicolas.
+### 👋 Olá, pessoa... Me chamo Nicolas!
 
-Tenho 18 anos e moro em Pernambuco, Brasil. Atualmente estou em processo de formação como Desenvolvedor Full Stack na Driven Education. Uma curiosidade sobre mim, é que, decidi entrar na carreira de desenvolvedor apenas quando concluí o ensino médio.
+Tenho 19 anos e moro em Pernambuco, Brasil. Atualmente estou em processo de formação como Desenvolvedor Full Stack na Driven Education. Uma curiosidade sobre mim, é que, decidi entrar na carreira de desenvolvedor apenas quando concluí o ensino médio.
 
 <div>
   <img align=center height=160em src="https://github-readme-stats.vercel.app/api?username=Nicoladla&show_icons=true&theme=merko"/>
@@ -19,6 +19,8 @@ Tenho 18 anos e moro em Pernambuco, Brasil. Atualmente estou em processo de form
   <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-plain-wordmark.svg" />
   <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+  <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
+
  </div>
 
 #### Entre em contato:
