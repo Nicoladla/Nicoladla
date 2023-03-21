@@ -1,4 +1,4 @@
-### 👋 Olá, pessoa... Me chamo Nicolas!
+## 👋 Olá, pessoa... Me chamo Nicolas!
 
 Tenho 19 anos e moro em Pernambuco, Brasil. Atualmente estou em processo de formação como Desenvolvedor Full Stack na Driven Education. Uma curiosidade sobre mim, é que, decidi entrar na carreira de desenvolvedor apenas quando concluí o ensino médio.
 
@@ -9,7 +9,7 @@ Tenho 19 anos e moro em Pernambuco, Brasil. Atualmente estou em processo de form
   
 ##
 
-### Linguagens e tecnologias:
+## Linguagens e tecnologias:
 
 #### Front-end:
 <div>
@@ -24,8 +24,8 @@ Tenho 19 anos e moro em Pernambuco, Brasil. Atualmente estou em processo de form
   <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
   <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
-  <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align=center height="50" wight="60" src="https://prismalens.vercel.app/header/logo-dark.svg" />
+  <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
   <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 </div>  
 
@@ -36,7 +36,7 @@ Tenho 19 anos e moro em Pernambuco, Brasil. Atualmente estou em processo de form
   <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original-wordmark.svg" />
 </div>  
 
-### Entre em contato:
+## Entre em contato:
 <div>
   <a href="mailto:nicolasaraujo04@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
