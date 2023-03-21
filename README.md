@@ -25,7 +25,7 @@ Tenho 19 anos e moro em Pernambuco, Brasil. Atualmente estou em processo de form
   <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
   <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" />
   <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg" />
-  <img align=center height="50" wight="60" src="https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white" />
+  <img align=center height="50" wight="60" src="https://prismalens.vercel.app/header/logo-dark.svg" />
   <img align=center height="50" wight="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
 </div>  
 
