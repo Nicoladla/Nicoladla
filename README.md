@@ -1,6 +1,11 @@
 ## 👋 Olá, pessoa... Me chamo Nicolas!
 
-Tenho 19 anos e moro em Buíque, Pernambuco. Atualmente estou em processo de formação como Desenvolvedor Full Stack na Driven Education. Uma curiosidade sobre mim, é que, decidi entrar na carreira de desenvolvedor apenas quando concluí o ensino médio.
+Sou Desenvolvedor full-stack, Tenho 19 anos e moro em Buíque-PE. Algumas curiosidades sobre mim:
+* 🎲 Gosto de montar cubo mágico;
+* 🥇 Já ganhei medalha por maior média escolar;
+* 🎓 Recusei uma oportunidade de faculdade;
+* 🍧 Meu primeiro trabalho foi vendendo picolé;
+* 🏃🏻‍♂️ Gosto de fazer atividades físicas.
 
 <div>
   <img align=center height=160em src="https://github-readme-stats.vercel.app/api?username=Nicoladla&show_icons=true&theme=merko"/>
@@ -44,9 +49,5 @@ Tenho 19 anos e moro em Buíque, Pernambuco. Atualmente estou em processo de for
 
   <a href="https://www.linkedin.com/in/nicoladla/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="https://wa.me/5587999322624">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
   </a>
 </div>
