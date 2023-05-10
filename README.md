@@ -40,13 +40,18 @@ Sou Desenvolvedor full-stack, Tenho 19 anos e moro em Buíque-PE. Algumas curios
   <img align=center height="30" wight="40" src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />
 </div>  
 
-#### Infraestrutura
+#### Infraestrutura:
 <div>
-  <img align=center height="30" wight="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg" />
+  <img align=center height="30" wight="40" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" />
   <img align=center height="30" wight="40" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
   <img align=center height="30" wight="40" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
   <img align=center height="30" wight="40" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  
+</div>
+
+#### Aprendendo no momento:
+<div>
+  <img align=center height="30" wight="40" src="https://img.shields.io/badge/nestjs-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img align=center height="30" wight="40" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" /> 
 </div>
 
 ## Entre em contato:
