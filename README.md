@@ -1,6 +1,6 @@
 ## 👋 Olá, pessoa... Me chamo Nicolas!
 
-Sou Desenvolvedor full-stack, Tenho 19 anos e moro em Buíque-PE. Algumas curiosidades sobre mim:
+Sou Desenvolvedor full-stack, Tenho 20 anos e moro em Buíque-PE. Algumas curiosidades sobre mim:
 * 🎲 Gosto de montar cubo mágico;
 * 🥇 Já ganhei medalha por maior média escolar;
 * 🎓 Recusei uma oportunidade de faculdade;
